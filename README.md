@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Deployment
 Adding more
 And even more
+
+#COPYRIGHT
+do not use this unless you are me
