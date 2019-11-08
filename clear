@@ -1,0 +1,26 @@
+[33mf3fb15d[m[33m ([m[1;36mHEAD -> [m[1;32mcoolBranch[m[33m)[m changing HTML title
+[33m1802d0e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m changing source tree file
+[33mabffe55[m adding all
+[33m85e8715[m adding other file
+[33m1fb2cfd[m added depoyment readme
+[33m9339972[m adding a source tree file
+[33mca925ef[m Excluding log file
+[33ma7ea857[m adding git ignore to exclude unwanted files
+[33m69fea7f[m deleting level 11 and all children
+[33m0ccf2ec[m adding another test file
+[33m890dc91[m Deleted hipster.txt file
+[33mfb70aa1[m deleted that dumb hipster file
+[33mc87c2f5[m changing the name back
+[33m0593413[m Moving file back to 12
+[33mc3907be[m Moving file12.txt to file13
+[33md6b75bc[m renaming level 12 file
+[33m9430aee[m renaming level 13 file
+[33m64322d3[m adding a bunch of files recursively
+[33mefdf987[m more text
+[33m651216c[m adding new file
+[33m0bb9d5c[m Adding more text to hipster
+[33m7c52bd6[m Adding hipster text file
+[33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[33me73f914[m Adding Purpose section to README
+[33m34f563b[m Adding README file
+[33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
