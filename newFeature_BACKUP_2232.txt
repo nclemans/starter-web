@@ -1,8 +1,0 @@
-Added a new Feature out of the blue
-
-<<<<<<< HEAD
-This new feature will be called Master
->>>>>>> realwork
-=======
-This new feature will be called NewFeature
->>>>>>> realwork
