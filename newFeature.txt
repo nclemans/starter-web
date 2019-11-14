@@ -1,3 +1,3 @@
 Added a new Feature out of the blue
 
-This new feature will be called AutoDev
+This new feature will be called NewFeature
