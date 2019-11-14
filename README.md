@@ -12,3 +12,5 @@ And even more
 
 #COPYRIGHT
 do not use this unless you are me
+
+Nathan Clemans
