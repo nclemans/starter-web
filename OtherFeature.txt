@@ -1,1 +1,1 @@
-Adding a change on master
+Adding a change on master and more conflicting changes
