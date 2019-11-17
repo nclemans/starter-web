@@ -13,4 +13,4 @@ And even more
 #COPYRIGHT
 do not use this unless you are me
 
-Nathan Clemans 2019
+Nathan Clemans 2019 all rights reserved
